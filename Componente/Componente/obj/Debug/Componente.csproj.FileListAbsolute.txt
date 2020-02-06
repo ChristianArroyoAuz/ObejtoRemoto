@@ -1,0 +1,12 @@
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Componente\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Componente\bin\Debug\Componente.dll.config
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Componente\bin\Debug\Componente.dll
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Componente\bin\Debug\Componente.pdb
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Componente\obj\Debug\Componente.dll
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Componente\obj\Debug\Componente.pdb
+C:\Users\Christian Arroyo\Desktop\Componente\Componente\bin\Debug\Componente.dll.config
+C:\Users\Christian Arroyo\Desktop\Componente\Componente\bin\Debug\Componente.dll
+C:\Users\Christian Arroyo\Desktop\Componente\Componente\bin\Debug\Componente.pdb
+C:\Users\Christian Arroyo\Desktop\Componente\Componente\obj\Debug\Componente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Componente\Componente\obj\Debug\Componente.dll
+C:\Users\Christian Arroyo\Desktop\Componente\Componente\obj\Debug\Componente.pdb

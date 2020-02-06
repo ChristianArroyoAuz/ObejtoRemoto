@@ -1,0 +1,35 @@
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\bin\Debug\Servidor.exe
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\bin\Debug\Servidor.pdb
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\bin\Debug\ObjetoRemoto.dll
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\bin\Debug\ObjetoRemoto.pdb
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\obj\Debug\Servidor.exe
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\Servidor\obj\Debug\Servidor.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\obj\Debug\Servidor.exe
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\obj\Debug\Servidor.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\bin\Debug\Servidor.exe
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\bin\Debug\Servidor.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\bin\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\bin\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\bin\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Componente\Servidor\obj\Debug\Servidor.pdb

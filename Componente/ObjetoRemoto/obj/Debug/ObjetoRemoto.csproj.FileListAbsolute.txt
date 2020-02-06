@@ -1,0 +1,16 @@
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\ObjetoRemoto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\rK\Documents\Visual Studio 2008\Projects\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\usuario\Downloads\Aplicaciones Distribuidas\Practicas_y_Proyectos\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Componente\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Componente\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Componente\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
